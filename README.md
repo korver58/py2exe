@@ -4,5 +4,5 @@
 ```powershell
 # edit requirements.txt
 
-setup.ps1
+setup.ps1 hoge.py
 ```
